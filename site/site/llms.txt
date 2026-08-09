@@ -126,5 +126,3 @@ All of the above, with meanings and where each applies: https://www.socialbrand.
 - [The Owner's Morning Questions](https://www.socialbrand.africa/resources/owners-morning-questions/): Ten questions a store answers by 08:00 without a phone call.
 
 Privacy note: SocialBrand publishes methods as thinking, never formulas, thresholds or configuration values, and never identifies clients. The demo runs on generated data for a fictional store.
-
-Full page-by-page content, as clean text, is at https://www.socialbrand.africa/llms-full.txt for tools that read past this curated map.
