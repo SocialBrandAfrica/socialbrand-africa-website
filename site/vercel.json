@@ -1,0 +1,100 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "headers": [
+    {
+      "source": "/static/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=300, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/consulting",
+      "destination": "/operations/",
+      "permanent": true
+    },
+    {
+      "source": "/consulting/:path*",
+      "destination": "/operations/",
+      "permanent": true
+    },
+    {
+      "source": "/automation",
+      "destination": "/analytics/",
+      "permanent": true
+    },
+    {
+      "source": "/automation/:path*",
+      "destination": "/analytics/",
+      "permanent": true
+    },
+    {
+      "source": "/marketing",
+      "destination": "/operations/",
+      "permanent": true
+    },
+    {
+      "source": "/marketing/:path*",
+      "destination": "/operations/",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/pg-van-der-westhuizen/",
+      "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "/insights/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:path*",
+      "destination": "/insights/",
+      "permanent": true
+    },
+    {
+      "source": "/services/:path*",
+      "destination": "/operations/",
+      "permanent": true
+    },
+    {
+      "source": "/members",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/careers",
+      "destination": "/pg-van-der-westhuizen/",
+      "permanent": true
+    },
+    {
+      "source": "/press",
+      "destination": "/insights/",
+      "permanent": true
+    },
+    {
+      "source": "/dashboard",
+      "destination": "/demo/",
+      "permanent": true
+    }
+  ]
+}
