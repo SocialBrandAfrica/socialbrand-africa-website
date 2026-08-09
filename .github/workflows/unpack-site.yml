@@ -1,0 +1,28 @@
+name: Unpack site
+
+on:
+  push:
+    paths:
+      - 'site.zip'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unzip site.zip into site/
+        run: |
+          rm -rf site
+          mkdir -p site
+          unzip -o site.zip -d site
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site
+          git diff --staged --quiet || git commit -m "Unpack site.zip into site/ [automated]"
+          git push
