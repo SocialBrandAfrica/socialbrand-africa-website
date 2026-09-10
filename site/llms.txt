@@ -116,6 +116,9 @@ All of the above, with meanings and where each applies: https://www.socialbrand.
 ## Articles
 
 - [Your stock ledger is lying to you](https://www.socialbrand.africa/insights/your-stock-ledger-is-lying/): Phantom stock, negative stock and the Presence Law.
+- [The Golden Rule of retail: never hide a problem](https://www.socialbrand.africa/insights/never-hide-a-problem/): The fifteen-minute escalation rule and why a healthy store keeps a normal problem off the owner's desk.
+- [Where a butchery quietly loses money](https://www.socialbrand.africa/insights/where-a-butchery-quietly-loses-money/): Four places a fresh department leaks margin: yield, near-expiry stock, FIFO and the stock ledger as claim not fact.
+- [Guard the money line](https://www.socialbrand.africa/insights/guard-the-money-line/): Dual control and the three-way match, by Lizeka Mgodeli, co-founder and majority shareholder.
 
 ## Resources
 
@@ -126,3 +129,5 @@ All of the above, with meanings and where each applies: https://www.socialbrand.
 - [The Owner's Morning Questions](https://www.socialbrand.africa/resources/owners-morning-questions/): Ten questions a store answers by 08:00 without a phone call.
 
 Privacy note: SocialBrand publishes methods as thinking, never formulas, thresholds or configuration values, and never identifies clients. The demo runs on generated data for a fictional store.
+
+Full page-by-page content, as clean text, is at https://www.socialbrand.africa/llms-full.txt for tools that read past this curated map.
