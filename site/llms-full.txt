@@ -924,7 +924,7 @@ How the methods connect
 
 Ten methods, one discipline. On a wide screen, point at a node to trace what it feeds and what feeds it. On any screen, open a method to read it in full.
 
-[Production Yield: Three Models](https://www.socialbrand.africa/method/production-yield-models/)[The Presence Law](https://www.socialbrand.africa/method/presence-law/)[The 8-Step Ordering Recipe](https://www.socialbrand.africa/method/8-step-ordering-recipe/)[Community Rhythm Ordering](https://www.socialbrand.africa/method/community-rhythm/)[Capital Velocity](https://www.socialbrand.africa/method/capital-velocity/)[The Story Test](https://www.socialbrand.africa/method/story-test/)[The Two Worlds](https://www.socialbrand.africa/method/two-worlds/)[The Daily Count Law](https://www.socialbrand.africa/method/daily-count-law/)[Drop Cover](https://www.socialbrand.africa/method/drop-cover/)[The Base-Rate Rule](https://www.socialbrand.africa/method/base-rate-rule/)[Fit-to-Budget with KVI Floors](https://www.socialbrand.africa/method/fit-to-budget/)
+[Production Yield: Three Models](https://www.socialbrand.africa/method/production-yield-models/)[The Presence Law](https://www.socialbrand.africa/method/presence-law/)[The 8-Step Ordering Recipe](https://www.socialbrand.africa/method/8-step-ordering-recipe/)[Community Rhythm Ordering](https://www.socialbrand.africa/method/community-rhythm/)[Capital Velocity](https://www.socialbrand.africa/method/capital-velocity/)[The Story Test](https://www.socialbrand.africa/method/story-test/)[The Two Worlds](https://www.socialbrand.africa/method/two-worlds/)[The Daily Count Law](https://www.socialbrand.africa/method/daily-count-law/)[Drop Cover](https://www.socialbrand.africa/method/drop-cover/)[The Base-Rate Rule](https://www.socialbrand.africa/method/base-rate-rule/)[Fit-to-Budget with KVI Floors](https://www.socialbrand.africa/method/fit-to-budget/)[The Promotion Verdict](https://www.socialbrand.africa/method/promotion-verdict/)
 
 [
 
@@ -981,7 +981,12 @@ Read the method →](https://www.socialbrand.africa/method/base-rate-rule/)[
 ### Fit-to-Budget with KVI Floors
 
 Fit-to-Budget with KVI Floors is an ordering principle for fitting an order to a real buying budget without damaging the store: the known-value items your customers judge you by…
-Read the method →](https://www.socialbrand.africa/method/fit-to-budget/)
+Read the method →](https://www.socialbrand.africa/method/fit-to-budget/)[
+
+### The Promotion Verdict
+
+The Promotion Verdict is a retail principle for judging a closed promotion: success is gross profit in rand against what the line would have earned selling normally over the same…
+Read the method →](https://www.socialbrand.africa/method/promotion-verdict/)
 
 ## See the methods run
 
@@ -1428,6 +1433,58 @@ Flat percentage cuts, panic ordering after the payday shelf gap and the slow dri
 > “The thinking is the marketing. The mechanics are the moat.”
 
 **Attribution.** Fit-to-Budget with KVI Floors is published by PG van der Westhuizen, SocialBrand, from the working practice of Social Brands Investments (Pty) Ltd, South Africa. Cite it with that attribution. To see it applied, open the [live demo](https://www.socialbrand.africa/demo/) or start with a [Store Health Audit](https://www.socialbrand.africa/pricing/).
+
+---
+
+# The Promotion Verdict | The SocialBrand Method Library
+
+URL: https://www.socialbrand.africa/method/promotion-verdict/
+
+The Promotion Verdict is a retail principle for judging a closed promotion: success is gross profit in rand against what the line would have earned selling…
+
+[Home](https://www.socialbrand.africa/) / [Method Library](https://www.socialbrand.africa/method/) / The Promotion Verdict
+
+How do you know if a promotion made money?
+
+# The Promotion Verdict
+
+By **PG van der Westhuizen, SocialBrand** · Published 10 September 2026
+
+**The Promotion Verdict.** a retail principle for judging a closed promotion: success is gross profit in rand against what the line would have earned selling normally over the same days, never units or lift on their own, and it is measured only across the days the line was actually on the shelf. A promotion is judged once, after it closes, and the verdict does not move afterward.
+
+## Why it exists
+
+Most stores can tell you a promotion happened. Fewer can tell you whether it made money. The scorecard usually carries a target for it, inherited from somewhere, repeated every month. Pull the thread on where that target actually comes from and it is common to find an instrument that was never built to answer the question at all, quietly borrowing a number meant for something else and standing in as though it were the truth. Nobody lied. Nobody checked. The gap between having a target and having an instrument is where this principle starts.
+
+## The atom is one line, one store, one promotion
+
+A group verdict, or even a store verdict, is a sum. The atom underneath it is one product, at one store, over the days one specific deal ran. Build that row honestly and everything above it is just arithmetic. Skip it, and averaging hides exactly the stores and the lines doing the damage.
+
+Every row carries the days it could actually be sold. A line on the shelf for three days of a fourteen-day promotion is a thin row, and a thin row does not get to vote the same weight as a solid one when the averages roll up.
+
+## The four boxes
+
+Cross whether the line had enough stock against whether it sold, and every promoted line lands in one of four boxes.
+
+Had stock, and it sold: the deal worked, repeat it deeper. Had stock, and it did not sell: the deal or the price was wrong, take it back to the supplier or drop it next cycle. Ran short, and it still sold out: money was left on the table, quantify it and buy deeper next time. Ran short, and it did not sell either: drop it, it would not have moved even with full stock.
+
+The dangerous box is the one that looks like a good week. A line that ran short and sold every unit reads as a success on the floor. It is actually the promotion telling you it needed more stock than you gave it, and that box repeats every cycle until somebody starts asking which one a line landed in.
+
+## The dip is counted, never netted
+
+A promotion that pulls forward next month's sales is not free money, it is a loan. The four weeks after a promotion closes, measured against the same baseline as the promotion itself, show what came back. That figure sits beside the promotion's result, never subtracted from it in silence. A deal that earned handsomely and then gave much of it back in the dip has to be visible as exactly that, because folding the two together hides which promotions are borrowing from next month to look good this month.
+
+## When the same deal runs in more than one store
+
+A group running identical promotions across its stores has a control sitting inside its own data for free. A line that works in most stores and fails in one or two says the deal was sound and execution slipped somewhere specific. A line that fails everywhere says the deal itself was poor. Very few stores use this comparison, because it only exists once every store's rows are built the same honest way. It is the single most reliable way to tell a bad deal from bad execution, and most scorecards cannot see it because they were never built to look.
+
+## What it replaces
+
+Units sold and percentage lift as the headline number, both of which reward a promotion that moves volume at a loss. A promotion graded before it closes, on a forecast rather than on what happened. And a scorecard target quietly answered by an instrument that was built for something else. See [the Base-Rate Rule](https://www.socialbrand.africa/method/base-rate-rule/) for why an unmeasured belief does not get to stand as a law, and [Capital Velocity](https://www.socialbrand.africa/method/capital-velocity/) for the same discipline applied to stock that is not on promotion at all.
+
+> “The thinking is the marketing. The mechanics are the moat.”
+
+**Attribution.** The Promotion Verdict is published by PG van der Westhuizen, SocialBrand, from the working practice of Social Brands Investments (Pty) Ltd, South Africa. Cite it with that attribution. To see it applied, open the [live demo](https://www.socialbrand.africa/demo/) or start with a [Store Health Audit](https://www.socialbrand.africa/pricing/).
 
 ---
 

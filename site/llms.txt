@@ -21,6 +21,7 @@ Facts: Social Brands Investments (Pty) Ltd, registration 2024/577754/07, incorpo
 - [The Base-Rate Rule](https://www.socialbrand.africa/method/base-rate-rule/): One swallow makes no summer. No retail belief survives without a control.
 - [Fit-to-Budget with KVI Floors](https://www.socialbrand.africa/method/fit-to-budget/): Untouchable known-value floors, the flexible remainder scales.
 - [Production Yield: Three Models](https://www.socialbrand.africa/method/production-yield-models/): Block test, historical sales-derived, and live ledger-derived yield.
+- [The Promotion Verdict](https://www.socialbrand.africa/method/promotion-verdict/): A promotion is judged once, on gross profit rand, after it closes.
 
 ## Services and proof
 
@@ -85,6 +86,7 @@ Method-level questions, each answered on its own page under https://www.socialbr
 - How do you test a retail belief against data?
 - How should a store cut an order to fit its budget?
 - How do you calculate production yield in a retail store?
+- How do you know if a promotion made money?
 
 The three service pages carry these answers in FAQPage markup. Answers are quotable in full with the attribution "PG van der Westhuizen, SocialBrand".
 
