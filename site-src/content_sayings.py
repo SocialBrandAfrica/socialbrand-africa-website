@@ -7,7 +7,7 @@ ATTR = "PG van der Westhuizen, SocialBrand"
 
 # Coined in this practice. Safe to attribute to PG van der Westhuizen.
 OURS = [
-    {"q": "The shelf sells the hype. The system wins the war.",
+    {"q": "The shelf sells the hype. The systems win the war.",
      "id": "shelf-hype-system-war",
      "m": "Your storefront, your specials and your service bring people through the door. Your systems, your stock accuracy and your buying decide whether you keep the money. A competitor with a system beats effort every time.",
      "use": "The one line that explains why two stores with the same footfall end the month differently.",
@@ -155,7 +155,7 @@ def build(render, SITE):
 
     return [render("/sayings/",
         "Retail sayings and maxims | PG van der Westhuizen, SocialBrand",
-        "Quotable retail maxims on stock, ordering and evidence. The shelf sells the hype, the system wins the war. Presence is proven by sales or counts. Lines coined by PG van der Westhuizen, separated from inherited trade wisdom.",
+        "Quotable retail maxims on stock, ordering and evidence. The shelf sells the hype, the systems win the war. Presence is proven by sales or counts. Lines coined by PG van der Westhuizen, separated from inherited trade wisdom.",
         body, extra_schema=[collection] + quotes + [breadcrumb])]
 
 

@@ -28,7 +28,7 @@ def build(render, SITE):
     <div class="hero-in">
       <span class="kicker">Retail turnaround &middot; Operations &middot; Analytics</span>
       <h1>We turn retail businesses around. <em>Then we run them right.</em></h1>
-      <p class="slogan">The shelf sells the hype. <b>The system wins the war.</b></p>
+      <p class="slogan">The shelf sells the hype. <b>The systems win the war.</b></p>
       <p class="lead">SocialBrand is the retail practice of PG van der Westhuizen. More than three decades of store operations, backed by an analytics capability most operators have never had access to.</p>
       <div class="hero-sub">
         <a class="btn" href="/audit/">Book a Store Health Audit</a>
@@ -169,7 +169,7 @@ def build(render, SITE):
 </div></div></section>
 
 <section class="sec"><div class="wrap">
-  <div class="sec-h rv"><span class="kicker">The philosophy</span><h2>The shelf sells the hype. The system wins the war.</h2>
+  <div class="sec-h rv"><span class="kicker">The philosophy</span><h2>The shelf sells the hype. The systems win the war.</h2>
   <p>Retail is two battles, not one. The first is attracting the customer: the theatre of a full shelf, a sharp promotion, a well-run front end. The second is keeping the margin: the stock that is actually there, the order that matches real demand, the paperwork that cannot be gamed. Most independent stores fight the first battle brilliantly and lose the second quietly.</p>
   <p style="margin-top:14px">We do not build stores that depend on one exceptional manager. We build a system that ordinary people can run flawlessly, every day, whether the owner is standing in the store or not.</p></div>
 </div></section>
