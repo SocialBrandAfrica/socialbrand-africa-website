@@ -63,7 +63,7 @@ ORG_SCHEMA = {
     "telephone": "+27-79-382-1818",
     "email": "pieter@socialbrand.africa",
     "sameAs": [SITE["linkedin_co"], SITE["facebook"], SITE["twitter"]],
-    "slogan": "The shelf sells the hype. The system wins the war.",
+    "slogan": "The shelf sells the hype. The systems win the war.",
     "description": "Retail turnaround and operations consultancy. More than three decades of store operations, backed by an analytics capability most operators have never had access to."
 }
 
