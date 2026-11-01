@@ -20,7 +20,7 @@ SITE = {
     "linkedin_person": "https://www.linkedin.com/in/pgvanderwesthuizen",
     "linkedin_co": "https://www.linkedin.com/company/socialbrandafrica",
     "facebook": "https://www.facebook.com/socialbrandafrica",
-    "twitter": "https://twitter.com/socialbrandza",
+    "twitter": "https://x.com/SocialBrand_ZA",
 }
 
 def _asset_v():
